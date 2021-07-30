@@ -1,2 +1,3 @@
 # bienes-raices
-Curso udemy, html5 y css3
+Paginas estaticas 
+Objetivo mostrar mis abilidades en diseño 
