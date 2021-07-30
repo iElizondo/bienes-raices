@@ -1,3 +1,3 @@
 # bienes-raices
 Paginas estaticas 
-Objetivo mostrar mis abilidades en diseño 
+Objetivo mostrar mis habilidades en diseño 
